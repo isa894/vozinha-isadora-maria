@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    font-family: monospace;
+    background-color: rgb(224, 190, 145);
+     
+}
+    img{
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        margin-top: 20px;
+    }
+     h1{
+        color:rgb(0, 6, 14);
+        margin-top:20px;
+     }
+    h2{
+        color:rgb(192, 128, 90);
+        margin-top:30px;
+    }
+    p{
+        color:rgb(133, 87, 56)
+    }
+    a{
+        text-decoration:none;
+        background-color: bisque;
+        color:rgb(117, 84, 33);
+        padding:10px 20px;
+        border-radius: 5px;
+    }
+    h3{
+        color:bisque;
+        margin-top: 20px;
+    }
